@@ -1,0 +1,11 @@
+{
+  "name": "tetris-bot",
+  "version": "1.0.0",
+  "main": "tetris_bot.js",
+  "scripts": {
+    "start": "node tetris_bot.js"
+  },
+  "dependencies": {
+    "puppeteer": "^20.7.1"
+  }
+}
